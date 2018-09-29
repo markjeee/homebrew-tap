@@ -2,7 +2,7 @@ class Gemfury < Formula
   desc "Hosted repo for your public and private packages"
   homepage "https://gemfury.com"
   url "https://github.com/markjeee/gemfury/raw/brew-package/releases/gemfury-0.8.0.tar.gz"
-  sha256 "2980fd815eca0e89057bb9c2dfa1baa7e9822d4d82544bea48e719db7abcf31e"
+  sha256 "85cc3efdb34246f9eba11603081c26dba91cedaa3ec030fd25ce354543b00b66"
 
   def package_name
     "gemfury"

@@ -2,7 +2,7 @@ class Packtory < Formula
   desc "An easy to use system packaging tool for your Ruby gems"
   homepage "https://gemfury.com"
   url "https://github.com/markjeee/packtory/raw/master/releases/packtory-0.1.1.tar.gz"
-  sha256 "bed6c9e9279b2e13c0c809c81ff7ed2155f7969b43c9faa30ca20efc99dd12bd"
+  sha256 "ad3c96c8dc37131fec03e69a6546aa985f38116ef4414be9ac0cb43028b6804e"
 
   def package_name
     "packtory"
